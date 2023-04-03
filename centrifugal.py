@@ -1,6 +1,6 @@
 def centrifugalpump(Q, p, SG, Psg, Pdg, Pv):
     #Q = massflowrate in m^3/hr
-    #imput Power in kilowatt
+    #input Power in kilowatt
     #specific gravity of fluid
     #suction pressure in kg/cm^2 gauge
     #discharge pressure in kg/cm^2 gauge
